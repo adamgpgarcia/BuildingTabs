@@ -1,0 +1,13 @@
+.nav {
+    background-color: cyan;
+    boarder-style: solid;
+}
+.navigation {
+    text-decoration: none;
+    color: #990000;
+
+}
+
+a:hover {
+    background-color: #ff9999;
+}
